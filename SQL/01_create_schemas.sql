@@ -1,0 +1,4 @@
+CREATE SCHEMA operations;
+CREATE SCHEMA fleet;
+CREATE SCHEMA warehouse;
+CREATE SCHEMA finance;
